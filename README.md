@@ -1,5 +1,5 @@
 https://github.com/Cbdlll/Membership_Inference_Attack
-
+**<font color=red>!!! 由于使用数据集数量非常少，所以以下运行结果不可复现 !!!</font>**
 # 成员推理攻击
 
 **成员推理攻击**（Membership Inference Attack，MIA）中，攻击者试图判断一个给定的数据点是否存在于目标模型的训练集中。为了进行这样的攻击，通常需要构建三个关键模型：**Target Model**、**Shadow Model** 和 **Attack Model**。
