@@ -1,4 +1,4 @@
-⚠️**WARNING:** 由于使用数据集数量非常少，所以以下运行结果 **不可复现!** ⚠️
+⚠️**WARNING:** 由于训练使用数据非常少，所以以下运行结果 **不可复现!** ⚠️
 
 ⚠️**WARNING:** Due to the very small dataset size, the following results are **NOT reproducible!** ⚠️
 
